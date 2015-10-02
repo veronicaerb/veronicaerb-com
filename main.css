@@ -329,7 +329,7 @@ p {
 /* ---------- Branding ---------- */
 .header {
   width: 100%;
-  background: #0c70a7 url("images/verbisthewordBanner-01.png") repeat center -15px;
+  background: #0c70a7 url("images/verbisthewordBanner-01.png") repeat center bottom;
   border-bottom: 1px solid #1d5da8;
   color: white; }
 
